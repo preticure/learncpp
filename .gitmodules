@@ -1,0 +1,3 @@
+[submodule "icecream"]
+	path = icecream
+	url = https://github.com/renatoGarcia/icecream-cpp.git
